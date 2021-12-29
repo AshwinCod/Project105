@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(118, 228, 123);
+    color: rgb(58, 19, 230);
+}
+
+.heading{
+    width: 70%;
+    font-size: 18px;
+
+}
+
+.name_of_objects{
+    color: rgb(209, 21, 21);
+}
+
+#capture{
+    background-color: rgb(250, 9, 9);
+}
+
+#identify{
+    background-color: rgb(39, 200, 206);
+}
+
+#camera{
+    background-color: white;
+    border: 3px dotted rgb(255, 0, 0);
+    width: 300px;
+    height: 300px;
+}
